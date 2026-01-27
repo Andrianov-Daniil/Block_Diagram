@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" version="29.3.0">
   <diagram name="Страница-1" id="iPzAeXDaj15qFCXpQ2ZD">
-    <mxGraphModel dx="570" dy="314" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
+    <mxGraphModel dx="679" dy="374" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -135,13 +135,13 @@
           <mxGeometry height="20" width="40" x="820" y="450" as="geometry" />
         </mxCell>
         <mxCell id="WPg2rvNWuApTMI_8D0Aj-88" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="USB1_2" vertex="1">
-          <mxGeometry height="20" width="40" x="820" y="482.5" as="geometry" />
+          <mxGeometry height="20" width="40" x="820" y="480" as="geometry" />
         </mxCell>
         <mxCell id="WPg2rvNWuApTMI_8D0Aj-89" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="USB1_3" vertex="1">
           <mxGeometry height="20" width="40" x="820" y="510" as="geometry" />
         </mxCell>
         <mxCell id="WPg2rvNWuApTMI_8D0Aj-90" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="USB1_4" vertex="1">
-          <mxGeometry height="15" width="50" x="670" y="480" as="geometry" />
+          <mxGeometry height="20" width="50" x="670" y="480" as="geometry" />
         </mxCell>
         <mxCell id="WPg2rvNWuApTMI_8D0Aj-92" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="RS-485" vertex="1">
           <mxGeometry height="20" width="60" x="360" y="505" as="geometry" />
@@ -197,6 +197,30 @@
             <mxPoint x="420" y="484.76" as="sourcePoint" />
             <mxPoint x="480" y="484.76" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="WPg2rvNWuApTMI_8D0Aj-102" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="USB" vertex="1">
+          <mxGeometry height="10" width="40" x="550" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="WPg2rvNWuApTMI_8D0Aj-103" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="USB" vertex="1">
+          <mxGeometry height="10" width="40" x="550" y="470" as="geometry" />
+        </mxCell>
+        <mxCell id="WPg2rvNWuApTMI_8D0Aj-104" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="USB" vertex="1">
+          <mxGeometry height="10" width="40" x="550" y="500" as="geometry" />
+        </mxCell>
+        <mxCell id="WPg2rvNWuApTMI_8D0Aj-105" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="USB" vertex="1">
+          <mxGeometry height="10" width="40" x="550" y="530" as="geometry" />
+        </mxCell>
+        <mxCell id="WPg2rvNWuApTMI_8D0Aj-106" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="UART1" vertex="1">
+          <mxGeometry height="10" width="40" x="430" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="WPg2rvNWuApTMI_8D0Aj-107" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="UART2" vertex="1">
+          <mxGeometry height="10" width="40" x="430" y="470" as="geometry" />
+        </mxCell>
+        <mxCell id="WPg2rvNWuApTMI_8D0Aj-108" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="UART3" vertex="1">
+          <mxGeometry height="10" width="40" x="430" y="500" as="geometry" />
+        </mxCell>
+        <mxCell id="WPg2rvNWuApTMI_8D0Aj-109" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="UART4" vertex="1">
+          <mxGeometry height="10" width="40" x="430" y="530" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
